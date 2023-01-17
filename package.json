@@ -1,0 +1,23 @@
+{
+  "name": "figma-emailvu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch assets/scss/style.scss style.css  --source-map style.css.map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayeem-Hasan/scss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nayeem-Hasan/scss/issues"
+  },
+  "homepage": "https://github.com/Nayeem-Hasan/scss#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "node-sass": "^8.0.0"
+  },
+  "description": ""
+}
